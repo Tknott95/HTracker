@@ -1,8 +1,11 @@
 # hZics
 hZics, the haskell tracker
 
-## CAN BE USED TO MONITOR WEBSITE ACTIVITY AND EXTENDED TO TELL YOU WHAT EXACTLY CHANGED 
-## THIS WILL SEND YOU A TEXT MSG EVERY TIME A CHANGE OCCURS
+
+- This can be used to monitor website activity and extended to tell you wha exactly has changed 
+- This has the ability to send you a text message you every time a change occurs
+- This was coded quickly to handle a usecase. This code still needs to be cleaned.  
 
 
-- mapConcurrently is better than nesting concurrently. I will clean this code another time. 
+` mapConcurrently is better than nesting concurrently. I will clean this code another time.` 
+
